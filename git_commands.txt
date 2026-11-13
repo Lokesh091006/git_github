@@ -1,4 +1,4 @@
-﻿================================================================================
+================================================================================
 GIT WORKFLOW COMMAND DOCUMENTATION
 Assignment: Git & GitHub Workflow Documentation
 File: git_commands.txt
@@ -55,7 +55,7 @@ File: git_commands.txt
 17. git restore --staged draft.txt
     Unstages draft.txt from the staging area without discarding the file's modifications in the working tree.
 
-18. git remote add origin https://github.com/lokeshsure668/git-workflow-assignment.git
+18. git remote add origin https://github.com/Lokesh091006/git_github.git
     Connects the local Git repository to a remote repository hosted on GitHub under the alias 'origin'.
 
 19. git push -u origin main
